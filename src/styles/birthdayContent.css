@@ -1,0 +1,25 @@
+.birthdayContent-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8rem;
+}
+
+.infoInputs-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    margin-top: 20px;
+}
+
+.infoInputs-container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.preview-modal-container {
+    margin-top: 20px;
+}

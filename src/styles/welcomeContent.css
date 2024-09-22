@@ -1,0 +1,7 @@
+.welcomeContent-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-content: center;
+    margin-top: 8rem;
+}
